@@ -47,3 +47,19 @@ You gonna eat that?
 * Anker PowerCore+ 26800 PD 45W
 * Anker PowerCore 10K Wireless
 * Mregb Solar Charger Power Bank 42800mAh
+
+**Phones**
+
+* LG
+* HTC
+* Samsung S8+
+* Samsung S9
+* Samsung S10
+* Samsung A10
+* Samsung S20
+* Samsung S20
+* Samsung S24
+* Pixel 6
+* Moto X Pixel. (First Google pixel phone)
+* Huawei Nexus. (Also a Google Pixel)
+* 
