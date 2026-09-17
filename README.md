@@ -23,16 +23,26 @@ You gonna eat that?
 
 ---
 
+---
+
 ## Hardware
 
 **Kismet-Based Wardrivers**
 
-* Raspberry Pi 3 — TP-Link TL-WN722N (Version 1), Alfa Network AWUS1900
+* Raspberry Pi 3 — TP-Link TL-WN722N (Version 1), Alfa AWUS1900
 * Raspberry Pi 4 — Alfa AWUS036ACM, Alfa AWUS036ACS, AWUS1900
 * Raspberry Pi 5 — Panda Wireless PAU0D AC1200
+* Hak5 Pineapple 
 
 **GPS Units**
 
-* UBX-G7020KT — (GPS, GLONASS, QZSS and SBAS)
+* UBX-G7020KT — GPS, GLONASS, QZSS and SBAS
 * VK-162
 * VK-172
+
+**Battery Packs**
+
+* Anker PowerCore Select 10000
+* Anker PowerCore+ 26800 PD 45W
+* Anker PowerCore 10K Wireless
+* Mregb Solar Charger Power Bank 42800mAh
