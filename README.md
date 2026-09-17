@@ -19,3 +19,4 @@ You gonna eat that?
 - **Total Cells/GPS discovered:** 61,505
 - **First upload to WiGLE:** Mon Feb 21 2011
 - **Latest upload to WiGLE:** Continuum
+- **Total csv files uploaded to Wigle:** 8854
