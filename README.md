@@ -3,7 +3,7 @@
 
 Often imitated. Never duplicated.
 
-[WiGLE](https://wigle.net/index) contributor and [wardriver](https://wigle.net/stats?pagestart=0&pageend=400&eventid=0&sort=discovered#personalstats) extraordinaire. Builder of SBC based mobile wardriving rigs. I will test your device in the harshest and most comprehensive manner, contact me for info.
+[WiGLE](https://wigle.net/index) contributor and wardriver (warcyclist) extraordinaire. Builder of SBC based mobile wardriving rigs. I will test your device in the harshest and most comprehensive manner, contact me for info.
 
 You gonna eat that?
 
