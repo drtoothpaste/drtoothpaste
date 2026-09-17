@@ -39,6 +39,7 @@ You gonna eat that?
 * UBX-G7020KT — GPS, GLONASS, QZSS and SBAS
 * VK-162
 * VK-172
+* BU-353
 
 **Battery Packs**
 
