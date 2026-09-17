@@ -1,4 +1,5 @@
-toothpaste
+
+## **toothpaste**
 
 Often imitated. Never duplicated.
 
