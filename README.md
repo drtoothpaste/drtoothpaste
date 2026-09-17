@@ -32,7 +32,14 @@ You gonna eat that?
 * Raspberry Pi 3 — TP-Link TL-WN722N (Version 1), Alfa AWUS1900
 * Raspberry Pi 4 — Alfa AWUS036ACM, Alfa AWUS036ACS, AWUS1900
 * Raspberry Pi 5 — Panda Wireless PAU0D AC1200
-* Hak5 Pineapple 
+* Hak5 Pineapple
+
+**ESP32 Based Devices**
+
+* J. Hewitt (The progenitor of the ESP32 wardriving device. Without him there would be no other.)
+* Signal Sleuth
+* Biscuit Pro (Currently testing)
+* The Piglet (Will be testing)
 
 **GPS Units**
 
@@ -52,6 +59,8 @@ You gonna eat that?
 
 * LG Optimus
 * HTC ONE
+* Moto X Pixel. (First Google pixel phone)
+* Huawei Nexus. (Also a Google Pixel)
 * Samsung S2
 * Samsung S8+
 * Samsung S9
@@ -60,7 +69,4 @@ You gonna eat that?
 * Samsung S20
 * Samsung S20
 * Samsung S24
-* Pixel 6
-* Moto X Pixel. (First Google pixel phone)
-* Huawei Nexus. (Also a Google Pixel)
-  
+* Pixel 6  
