@@ -50,8 +50,9 @@ You gonna eat that?
 
 **Phones**
 
-* LG
-* HTC
+* LG Optimus
+* HTC ONE
+* Samsung S2
 * Samsung S8+
 * Samsung S9
 * Samsung S10
@@ -62,4 +63,4 @@ You gonna eat that?
 * Pixel 6
 * Moto X Pixel. (First Google pixel phone)
 * Huawei Nexus. (Also a Google Pixel)
-* 
+  
