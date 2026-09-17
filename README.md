@@ -3,7 +3,7 @@
 
 Often imitated. Never duplicated.
 
-Wardriver extraordinaire. Builder and tester of mobile wardriving rigs.
+Wigle contributor and wardriver extraordinaire. Builder of SBC based mobile wardriving rigs. I will test your device in the harshest and most comprehensive manner, contact me for info.
 
 You gonna eat that?
 
