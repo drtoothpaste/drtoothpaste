@@ -3,7 +3,9 @@
 
 Often imitated. Never duplicated.
 
-[WiGLE](https://wigle.net/index) contributor and wardriver (warcyclist) extraordinaire. Builder of SBC based mobile wardriving rigs. I will test your device in the harshest and most comprehensive manner, contact me for info.
+[WiGLE](https://wigle.net/index) contributor and wardriver (warcyclist) extraordinaire. Builder of SBC based mobile wardriving rigs. 
+
+Send me your wardriving device which I will put through real world field testing. You will get my perspective, 2 highest ranked wardriver in the world, as well as honest performance metrics which you will be able to use to refine your device.
 
 You gonna eat that?
 
