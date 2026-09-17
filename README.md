@@ -11,7 +11,7 @@ You gonna eat that?
 
 ---
 
-## WiGLE Stats
+## WiGLE Stats  (As of September 17, 2026)
 
 - **Total WiFi discovered:** 25,027,513
 - **Total WiFi new:** 16,427,062
