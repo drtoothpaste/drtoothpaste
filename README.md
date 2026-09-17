@@ -20,3 +20,19 @@ You gonna eat that?
 - **First upload to WiGLE:** Mon Feb 21 2011
 - **Latest upload to WiGLE:** Continuum
 - **Total csv files uploaded to Wigle:** 8854
+
+---
+
+## Hardware
+
+**Kismet-Based Wardrivers**
+
+* Raspberry Pi 3 — TP-Link TL-WN722N (Version 1), Alfa Network AWUS1900
+* Raspberry Pi 4 — Alfa AWUS036ACM, Alfa AWUS036ACS, AWUS1900
+* Raspberry Pi 5 — Panda Wireless PAU0D AC1200
+
+**GPS Units**
+
+* UBX-G7020KT — (GPS, GLONASS, QZSS and SBAS)
+* VK-162
+* VK-172
