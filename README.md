@@ -70,5 +70,6 @@ You gonna eat that?
 * Samsung A10
 * Samsung S20
 * Samsung S22
-* Samsung S23
+* Samsung S23 Ultra
+* Samsung S24 Ultra
 * Pixel 6  
