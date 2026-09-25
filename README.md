@@ -31,7 +31,7 @@ You gonna eat that?
 
 **Kismet-Based Wardrivers**
 
-* Raspberry Pi 3 — TP-Link TL-WN722N (Version 1), Alfa AWUS1900
+* Raspberry Pi 3 — TP-Link TL-WN722N (Version 1, Version 2.1), Alfa AWUS1900
 * Raspberry Pi 4 — Alfa AWUS036ACM, Alfa AWUS036ACS, AWUS1900
 * Raspberry Pi 5 — Panda Wireless PAU0D AC1200
 * Hak5 Pineapple
@@ -52,9 +52,10 @@ You gonna eat that?
 
 **Battery Packs**
 
-* Anker PowerCore Select 10000
-* Anker PowerCore+ 26800 PD 45W
-* Anker PowerCore 10K Wireless
+* Anker PowerCore Select 10000 (a1223)
+* Anker PowerCore+ 26800 PD (30w/45W)
+* Anker PowerCore 3 Sense 10000 (a1248)
+* Anker PowerCore 10K Wireless (a1615)
 * Mregb Solar Charger Power Bank 42800mAh
 
 **Phones**
