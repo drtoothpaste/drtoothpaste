@@ -3,7 +3,7 @@
 
 Often imitated. Never duplicated.
 
-[WiGLE](https://wigle.net/index) contributor and wardriver (warcyclist) extraordinaire. I use Raspberry Pis to build mobile wardriving rigs. 
+[WiGLE](https://wigle.net/index) contributor and wardriver (warcyclist) extraordinaire. I use Raspberry Pis to build mobile wardriving rigs, test android phones running Wigle or WardriveGo, and evaluate esp32 wardriving devices.
 
 Send your wardriving device which I will put through real world field testing. You will get the perspective of the 2nd highest ranked wardriver in the world, as well as honest performance metrics which you will be able to use to refine your device.
 
@@ -36,6 +36,15 @@ You gonna eat that?
 * Raspberry Pi 5 — Panda Wireless PAU0D AC1200
 * Hak5 Pineapple
 
+**Wifi Adapters**
+
+* Alfa Network AWUS036ACS        (Realtek - crappy driver)
+* Alfa Network AWUS036ACM        (Mediatek - great driver)
+* Alfa Network AWUS1900          (Realtek - crappy driver)
+* Panda Wireless PAU0D           (Mediatek - great driver, same as AWUS036ACM)
+* TP-Link TL-WN722N v1           (Atheros - driver works out the box)
+* TP-Link TL-WN722N v2, v2.1, V3 (Realtek - crappy driver) 
+
 **ESP32 Based Devices**
 
 * J. Hewitt (The progenitor of the ESP32 wardriving device. Without him there would be no other.)
@@ -53,7 +62,7 @@ You gonna eat that?
 **Battery Packs**
 
 * Anker PowerCore Select 10000 (a1223)
-* Anker PowerCore+ 26800 PD (30w/45W)
+* Anker PowerCore+ 26800 PD 45W (a1376)
 * Anker PowerCore 3 Sense 10000 (a1248)
 * Anker PowerCore 10K Wireless (a1615)
 * Mregb Solar Charger Power Bank 42800mAh
@@ -67,10 +76,10 @@ You gonna eat that?
 * Samsung S2
 * Samsung S8+
 * Samsung S9
-* Samsung S10
+* Samsung S10 (SM-G973U, SM-G973W)
 * Samsung A10
 * Samsung S20
 * Samsung S22
 * Samsung S23 Ultra
-* Samsung S24 Ultra
+* Samsung S24 Ultra (SM-S928W)
 * Pixel 6  
