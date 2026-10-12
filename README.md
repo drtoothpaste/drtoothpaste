@@ -66,6 +66,7 @@ You gonna eat that?
 * Anker PowerCore 3 Sense 10000 (a1248)
 * Anker PowerCore 10K Wireless (a1615)
 * Mregb Solar Charger Power Bank 42800mAh
+* INIU Powerbank 10000 (P41L)
 
 **Phones**
 
