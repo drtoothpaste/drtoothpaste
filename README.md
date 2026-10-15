@@ -50,6 +50,7 @@ You gonna eat that?
 * J. Hewitt (The progenitor of the ESP32 wardriving device. Without him there would be no other.)
 * Signal Sleuth (On loan, only tested 1 week)
 * Biscuit Pro (Currently testing)
+* Packet Hog 10 Node Cluster Prototype (Currently testing
 * The Piglet (Currently testing)
 
 **GPS Units**
