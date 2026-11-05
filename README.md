@@ -3,9 +3,9 @@
 
 Often imitated. Never duplicated.
 
-[WiGLE](https://wigle.net/index) contributor and wardriver (warcyclist) extraordinaire. I use Raspberry Pis to build mobile Kismet wardriving rigs, test android phones running Wigle or WardriveGo, and evaluate esp32 wardriving devices.
+[WiGLE](https://wigle.net/index) contributor and wardriver (warcyclist) extraordinaire. Co-founder of the Wigle wardriving group The Art of Wardriving. I build Raspberry Pi Kismet wardriving rigs, test android phones running Wigle or WardriveGo, and evaluate esp32 wardriving devices.
 
-Send your wardriving device which I will put through real world field testing. You will get the perspective of the 2nd highest ranked wardriver in the world, as well as honest performance metrics which you will be able to use to refine your device.
+Send your wardriving device which I will put through real world field testing including hardware stress testing and software regression testing. You will get the perspective of the 2nd highest ranked wardriver in the world, as well as honest performance metrics which you will be able to use to refine your device.
 
 You gonna eat that?
 
